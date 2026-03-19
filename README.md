@@ -21,7 +21,7 @@ omarchy-theme-set mono
 - `colors.toml` for Omarchy-generated theme files
 - `alacritty.toml`, `btop.theme`, `hyprland.conf`, `mako.ini`, and `tmux.conf`
   for the monochrome UI treatment
-- `mono.tmTheme`, `neovim.lua`, and `light.mode` for editor and light-mode
-  alignment
+- `mono.tmTheme`, `neovim.lua`, `light.mode`, `zathurarc`, and `swayimgrc`
+  for editor and app alignment
 - `icons.theme` and `vscode.json` for app-specific theme selection
 - `wallpaper.txt`, `wallpaper.svg`, `preview.png`, and `backgrounds/0-mono.png`
